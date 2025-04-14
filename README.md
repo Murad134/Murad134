@@ -24,17 +24,17 @@
 </tr>
 </table>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FaridMurad1" alt="https://github.com/ileriayo" />
+  <img src="https://komarev.com/ghpvc/?username=murad134" alt="https://github.com/murad134" />
 </p>
 ---
 
 <h2 align='center'>📊Stats:</h2>
 <br>
 <div align=center>
-<img width=350 src="https://github-readme-stats.vercel.app/api?username=FaridMurad1&show_icons=true&theme=dracula&border_radius=10" alt="readme stats" />
-<img width=370 src="https://streak-stats.demolab.com/?user=FaridMurad1&theme=dracula&border_radius=10">
+<img width=350 src="https://github-readme-stats.vercel.app/api?username=murad134&show_icons=true&theme=dracula&border_radius=10" alt="readme stats" />
+<img width=370 src="https://streak-stats.demolab.com/?user=murad134&theme=dracula&border_radius=10">
 <br/>
-<img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridMurad1&langs_count=8&layout=compact&theme=dracula&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murad134&langs_count=8&layout=compact&theme=dracula&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 ---
 <br> <br> <br> <br>
