@@ -28,18 +28,6 @@
 </p>
 ---
 
-<!-- <h2 align='center'>📊Stats:</h2>
-<br>
-<div align=center>
-<img width=350 src="https://github-readme-stats.vercel.app/api?username=murad134&show_icons=true&theme=dracula&border_radius=10" alt="readme stats" />
-<img width=370 src="https://streak-stats.demolab.com/?user=murad134&theme=dracula&border_radius=10">
-<br/>
-<img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murad134&langs_count=8&layout=compact&theme=dracula&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" />
-</div> -->
-
-
----
-
 <div align="center">
   <h2>⚡ Current Status ⚡</h2>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
@@ -47,21 +35,14 @@
 </div>
 
 ---
-
-<h2 align='center'>📊 GitHub Stats</h2>
+<h2 align='center'>📊Stats:</h2>
 <br>
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=murad134&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" src="https://streak-stats.demolab.com/?user=murad134&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
-  <br/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murad134&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align=center>
+<img width=350 src="https://github-readme-stats.vercel.app/api?username=murad134&show_icons=true&theme=dracula&border_radius=10" alt="readme stats" />
+<img width=370 src="https://streak-stats.demolab.com/?user=murad134&theme=dracula&border_radius=10">
+<br/>
+<img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murad134&langs_count=8&layout=compact&theme=dracula&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
----
-
-
-
 ---
 <br> <br> <br> <br>
 ----
