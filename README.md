@@ -34,14 +34,17 @@
 </div>
 
 ---
-<h2 align='center'>📊Stats:</h2>
-<br>
-<div align=center>
-<img width=350 src="https://github-readme-stats.vercel.app/api?username=murad134&show_icons=true&theme=dracula&border_radius=10" alt="readme stats" />
-<img width=370 src="https://streak-stats.demolab.com/?user=murad134&theme=dracula&border_radius=10">
-<br/>
-<img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murad134&langs_count=8&layout=compact&theme=dracula&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<h2 align="center">📊 Stats</h2>
+
+<p align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=murad134&show_icons=true&theme=dracula&border_radius=10" />
+
+  <img width="370" src="https://streak-stats.demolab.com/?user=murad134&theme=dracula&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murad134&langs_count=8&layout=compact&theme=dracula&border_radius=10" />
+</p>
 ---
 <br> <br> <br> <br>
 ----
