@@ -8,7 +8,7 @@
     <h3 align='center'><i>About Me</i></h3>
     <ul style="font-family: 'Satisfy', cursive;">
       <li>Pursuing BSC in Computer Science & Engineering</li>
-      <li> I’m currently learning Full Stack Web Development</li>
+      <li>Passionate about building scalable web applications, creating intuitive UI/UX designs, and ensuring software quality</li>
       <li>Improving Algorithm & Data Structures</li>
     </ul><br><br>
     <h3 align='center'><i>Social Media Handles</i></h3>
