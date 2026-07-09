@@ -85,7 +85,7 @@
 <br><br><br><br>
 <h2 align="center">Other Social Media:</h2>
 <div align="center">
-<a href="https://codeforces.com/profile/Murad134"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
+<a href="https://codeforces.com/profile/Murad_134"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <a href="https://www.linkedin.com/in/md-murad-hosen-1221022a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.codechef.com/users/the_dreamer26"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
