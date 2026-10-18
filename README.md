@@ -7,9 +7,9 @@
   <td width="50%">
     <h3 align='center'><i>About Me</i></h3>
     <ul style="font-family: 'Satisfy', cursive;">
-      <li>Pursuing BSC in Computer Science & Engineering</li>
-      <li>Passionate about building scalable web applications, creating intuitive UI/UX designs, and ensuring software quality</li>
-      <li>Improving Algorithm & Data Structures</li>
+      <li>CSE graduate with hands-on experience in full-stack development.</li>
+      <li>Passionate about software engineering, backend development, scalable web applications, and microservices architecture.</li>
+      <li>Continuously improving problem-solving skills and knowledge of Data Structures & Algorithms.</li>
     </ul><br><br>
     <h3 align='center'><i>Social Media Handles</i></h3>
     <p align='center'>
